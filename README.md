@@ -1,8 +1,9 @@
-# Introduction to this Application
 
-This is a Hatchways Assessment work simulation for front-end using react to build pagination using custom hooks
+# This is a Hatchways Assessment work simulation for front-end using REACT to build pagination using custom hooks
 
-You will be designing front-end components in React for a simple blogging website. The feature set you will be responsible for is creating a pagination component for the blog posts (`src/data/blogs.json`).
+# Availabe in this <a href="https://symphonious-licorice-8f95a7.netlify.app">Link</a>
+
+I will designed front-end components in React for a simple blogging website. The feature set I created is a pagination component for the blog posts (`src/data/blogs.json`).
 
 A blog post has the following structure:
 
